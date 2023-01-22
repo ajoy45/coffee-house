@@ -23,3 +23,9 @@ h1,h2,h3,h4,h5,h6,p{
 .bg{
     background: rgba(87, 118, 57, 0.1);
 }
+.gradient{
+    background: linear-gradient(270deg, #FF0000 0%, #FF8938 100%);
+}
+.bg1{
+    background: rgba(255, 255, 255, 0.178);
+}
